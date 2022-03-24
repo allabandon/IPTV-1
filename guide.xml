@@ -1,0 +1,938 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.2.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="01 香港開電視 *">
+    <display-name lang="zh">01 香港開電視 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="02 香港國際財經台 *">
+    <display-name lang="zh">02 香港國際財經台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="108 財經資訊台 *">
+    <display-name lang="zh">108 財經資訊台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="109 新聞台 *">
+    <display-name lang="zh">109 新聞台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="110 直播新聞台 *">
+    <display-name lang="zh">110 直播新聞台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="201 有線電影台 *">
+    <display-name lang="zh">201 有線電影台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="301 綜合娛樂台 *">
+    <display-name lang="zh">301 綜合娛樂台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="601 高清體育台 *">
+    <display-name lang="zh">601 高清體育台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="602 Sports Plus 1 *">
+    <display-name lang="zh">602 Sports Plus 1 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="603 高清603台 *">
+    <display-name lang="zh">603 高清603台 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="604 Sports Plus 2 *">
+    <display-name lang="zh">604 Sports Plus 2 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="605 Sports Plus 3 *">
+    <display-name lang="zh">605 Sports Plus 3 *</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="618 有線18台">
+    <display-name lang="zh">618 有線18台</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="661 有線體育台">
+    <display-name lang="zh">661 有線體育台</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="662 Sports Plus 1">
+    <display-name lang="zh">662 Sports Plus 1</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="664 Sports Plus 2">
+    <display-name lang="zh">664 Sports Plus 2</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="665 Sports Plus 3">
+    <display-name lang="zh">665 Sports Plus 3</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="668 賽馬1台">
+    <display-name lang="zh">668 賽馬1台</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="669 賽馬2台">
+    <display-name lang="zh">669 賽馬2台</display-name>
+    <url>http://www.epg.i-cable.com.chinese</url>
+  </channel>
+  <channel id="dummy">
+    <display-name lang="en">dummy</display-name>
+    <url>http://www.merge-xmltv</url>
+  </channel>
+  <programme start="20220325060000 +0800" stop="20220325063000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325063000 +0800" stop="20220325070000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325070000 +0800" stop="20220325073000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220325073000 +0800" stop="20220325080000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325083000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">有線星級學堂：輕鬆在家gym</title>
+  </programme>
+  <programme start="20220325083000 +0800" stop="20220325090000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220325090000 +0800" stop="20220325100000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220325100000 +0800" stop="20220325101500 +0800" channel="01 香港開電視 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220325101500 +0800" stop="20220325102200 +0800" channel="01 香港開電視 *">
+    <title lang="zh">灣區直送</title>
+  </programme>
+  <programme start="20220325102200 +0800" stop="20220325103000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220325103000 +0800" stop="20220325110000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">窩輪攻略</title>
+  </programme>
+  <programme start="20220325110000 +0800" stop="20220325113000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">30分鐘大放餸</title>
+  </programme>
+  <programme start="20220325113000 +0800" stop="20220325115500 +0800" channel="01 香港開電視 *">
+    <title lang="zh">信樂的喜美子 [第100集]</title>
+  </programme>
+  <programme start="20220325115500 +0800" stop="20220325120000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+  </programme>
+  <programme start="20220325120000 +0800" stop="20220325123000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">澳門食通街</title>
+  </programme>
+  <programme start="20220325123000 +0800" stop="20220325130000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325130000 +0800" stop="20220325140000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220325140000 +0800" stop="20220325141500 +0800" channel="01 香港開電視 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220325141500 +0800" stop="20220325142200 +0800" channel="01 香港開電視 *">
+    <title lang="zh">灣區直送</title>
+  </programme>
+  <programme start="20220325142200 +0800" stop="20220325143000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220325143000 +0800" stop="20220325150000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">Jump Credit 特約:一期一匯</title>
+  </programme>
+  <programme start="20220325150000 +0800" stop="20220325160000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">唐磚 [第26集]</title>
+  </programme>
+  <programme start="20220325160000 +0800" stop="20220325163000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220325163000 +0800" stop="20220325170000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325170000 +0800" stop="20220325173000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">細路開電視</title>
+  </programme>
+  <programme start="20220325173000 +0800" stop="20220325180000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">神奇布袋小子</title>
+  </programme>
+  <programme start="20220325180000 +0800" stop="20220325183000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">聲東擊西</title>
+  </programme>
+  <programme start="20220325183000 +0800" stop="20220325190000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">分姻生活 [第11集]</title>
+  </programme>
+  <programme start="20220325190000 +0800" stop="20220325195000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">開在新聞最前線</title>
+  </programme>
+  <programme start="20220325195000 +0800" stop="20220325200000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220325200000 +0800" stop="20220325202500 +0800" channel="01 香港開電視 *">
+    <title lang="zh">信樂的喜美子 [第101集]</title>
+  </programme>
+  <programme start="20220325202500 +0800" stop="20220325203000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+  </programme>
+  <programme start="20220325203000 +0800" stop="20220325210000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">30分鐘大放餸</title>
+  </programme>
+  <programme start="20220325210000 +0800" stop="20220325212500 +0800" channel="01 香港開電視 *">
+    <title lang="zh">全城抗疫講呢啲</title>
+  </programme>
+  <programme start="20220325212500 +0800" stop="20220325213000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">日日有頭條</title>
+  </programme>
+  <programme start="20220325213000 +0800" stop="20220325223000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">九州天空城II [第20集]</title>
+  </programme>
+  <programme start="20220325223000 +0800" stop="20220325230000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">有種老闆娘</title>
+  </programme>
+  <programme start="20220325230000 +0800" stop="20220325234500 +0800" channel="01 香港開電視 *">
+    <title lang="zh">十一點最前線</title>
+  </programme>
+  <programme start="20220325234500 +0800" stop="20220326000000 +0800" channel="01 香港開電視 *">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+  </programme>
+  <programme start="20220325060000 +0800" stop="20220325070000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220325070000 +0800" stop="20220325080000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">CGTN 時段</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325090000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">CGTN 時段</title>
+  </programme>
+  <programme start="20220325090000 +0800" stop="20220325100000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220325100000 +0800" stop="20220325103000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">財經視界</title>
+  </programme>
+  <programme start="20220325103000 +0800" stop="20220325110000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">範肖和克魯德納特</title>
+  </programme>
+  <programme start="20220325110000 +0800" stop="20220325120000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">健腦節食</title>
+  </programme>
+  <programme start="20220325120000 +0800" stop="20220325130000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220325130000 +0800" stop="20220325140000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220325140000 +0800" stop="20220325150000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">投資朋友圈</title>
+  </programme>
+  <programme start="20220325150000 +0800" stop="20220325160000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220325160000 +0800" stop="20220325170000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220325170000 +0800" stop="20220325173000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">範肖和克魯德納特</title>
+  </programme>
+  <programme start="20220325173000 +0800" stop="20220325180000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">吱吱聲</title>
+  </programme>
+  <programme start="20220325180000 +0800" stop="20220325190000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220325190000 +0800" stop="20220325200000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220325200000 +0800" stop="20220325201700 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">主要新聞</title>
+  </programme>
+  <programme start="20220325201700 +0800" stop="20220325202000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">當年今日</title>
+  </programme>
+  <programme start="20220325202000 +0800" stop="20220325203000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220325203000 +0800" stop="20220325210000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Friday Beyond Spotlights</title>
+  </programme>
+  <programme start="20220325210000 +0800" stop="20220325220000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220325220000 +0800" stop="20220325230000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220325230000 +0800" stop="20220325231700 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">晚間新聞</title>
+  </programme>
+  <programme start="20220325231700 +0800" stop="20220325232000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">當年今日</title>
+  </programme>
+  <programme start="20220325232000 +0800" stop="20220326000000 +0800" channel="02 香港國際財經台 *">
+    <title lang="zh">Bloomberg 時段</title>
+  </programme>
+  <programme start="20220325060000 +0800" stop="20220325063000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325063000 +0800" stop="20220325070000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325070000 +0800" stop="20220325073000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220325073000 +0800" stop="20220325080000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325083000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220325083000 +0800" stop="20220325090000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220325090000 +0800" stop="20220325100000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220325100000 +0800" stop="20220325101500 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220325101500 +0800" stop="20220325102200 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">灣區直送</title>
+  </programme>
+  <programme start="20220325102200 +0800" stop="20220325103000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220325103000 +0800" stop="20220325110000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">窩輪攻略</title>
+  </programme>
+  <programme start="20220325110000 +0800" stop="20220325113000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325113000 +0800" stop="20220325120000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325120000 +0800" stop="20220325123000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325123000 +0800" stop="20220325130000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325130000 +0800" stop="20220325140000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220325140000 +0800" stop="20220325141500 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220325141500 +0800" stop="20220325142200 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">灣區直送</title>
+  </programme>
+  <programme start="20220325142200 +0800" stop="20220325143000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220325143000 +0800" stop="20220325150000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">Jump Credit 特約 : 一期一匯</title>
+  </programme>
+  <programme start="20220325150000 +0800" stop="20220325153000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325153000 +0800" stop="20220325160000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325160000 +0800" stop="20220325170000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220325170000 +0800" stop="20220325173000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">大行報告</title>
+  </programme>
+  <programme start="20220325173000 +0800" stop="20220325180000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">Jump Credit 特約 : 一期一匯</title>
+  </programme>
+  <programme start="20220325180000 +0800" stop="20220325190000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220325190000 +0800" stop="20220325195000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">開在新聞最前線</title>
+  </programme>
+  <programme start="20220325195000 +0800" stop="20220325200000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220325200000 +0800" stop="20220325201500 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線財經</title>
+  </programme>
+  <programme start="20220325201500 +0800" stop="20220325202200 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">灣區直送</title>
+  </programme>
+  <programme start="20220325202200 +0800" stop="20220325203000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220325203000 +0800" stop="20220325210000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">Jump Credit 特約 : 一期一匯</title>
+  </programme>
+  <programme start="20220325210000 +0800" stop="20220325220000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">交易所直播室</title>
+  </programme>
+  <programme start="20220325220000 +0800" stop="20220325221500 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">有線財經</title>
+  </programme>
+  <programme start="20220325221500 +0800" stop="20220325222200 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">灣區直送</title>
+  </programme>
+  <programme start="20220325222200 +0800" stop="20220325223000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220325223000 +0800" stop="20220325230000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">華爾街速遞</title>
+  </programme>
+  <programme start="20220325230000 +0800" stop="20220325233000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">大行報告</title>
+  </programme>
+  <programme start="20220325233000 +0800" stop="20220326000000 +0800" channel="108 財經資訊台 *">
+    <title lang="zh">Jump Credit 特約 : 一期一匯</title>
+  </programme>
+  <programme start="20220325060000 +0800" stop="20220325063000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325063000 +0800" stop="20220325070000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325070000 +0800" stop="20220325073000 +0800" channel="109 新聞台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220325073000 +0800" stop="20220325080000 +0800" channel="109 新聞台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325083000 +0800" channel="109 新聞台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220325083000 +0800" stop="20220325090000 +0800" channel="109 新聞台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220325090000 +0800" stop="20220325093000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325093000 +0800" stop="20220325100000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325100000 +0800" stop="20220325103000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325103000 +0800" stop="20220325110000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325110000 +0800" stop="20220325113000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325113000 +0800" stop="20220325120000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325120000 +0800" stop="20220325123000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325123000 +0800" stop="20220325130000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325130000 +0800" stop="20220325133000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325133000 +0800" stop="20220325140000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325140000 +0800" stop="20220325143000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325143000 +0800" stop="20220325150000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325150000 +0800" stop="20220325153000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325153000 +0800" stop="20220325160000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325160000 +0800" stop="20220325163000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325163000 +0800" stop="20220325170000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325170000 +0800" stop="20220325173000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325173000 +0800" stop="20220325180000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325180000 +0800" stop="20220325183000 +0800" channel="109 新聞台 *">
+    <title lang="zh">六點新聞報道</title>
+  </programme>
+  <programme start="20220325183000 +0800" stop="20220325190000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325190000 +0800" stop="20220325195000 +0800" channel="109 新聞台 *">
+    <title lang="zh">開在新聞最前線</title>
+  </programme>
+  <programme start="20220325195000 +0800" stop="20220325200000 +0800" channel="109 新聞台 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220325200000 +0800" stop="20220325203000 +0800" channel="109 新聞台 *">
+    <title lang="zh">國際最前線</title>
+  </programme>
+  <programme start="20220325203000 +0800" stop="20220325210000 +0800" channel="109 新聞台 *">
+    <title lang="zh">國際最前線</title>
+  </programme>
+  <programme start="20220325210000 +0800" stop="20220325213000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325213000 +0800" stop="20220325220000 +0800" channel="109 新聞台 *">
+    <title lang="zh">有線中國組</title>
+  </programme>
+  <programme start="20220325220000 +0800" stop="20220325223000 +0800" channel="109 新聞台 *">
+    <title lang="zh">國際最前線</title>
+  </programme>
+  <programme start="20220325223000 +0800" stop="20220325230000 +0800" channel="109 新聞台 *">
+    <title lang="zh">國際最前線</title>
+  </programme>
+  <programme start="20220325230000 +0800" stop="20220325234500 +0800" channel="109 新聞台 *">
+    <title lang="zh">十一點最前線</title>
+  </programme>
+  <programme start="20220325234500 +0800" stop="20220326000000 +0800" channel="109 新聞台 *">
+    <title lang="zh">每日樓市及新聞簡訊</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325120000 +0800" channel="110 直播新聞台 *">
+    <title lang="zh">直播新聞::最快最新</title>
+  </programme>
+  <programme start="20220325120000 +0800" stop="20220325160000 +0800" channel="110 直播新聞台 *">
+    <title lang="zh">直播新聞::最快最新</title>
+  </programme>
+  <programme start="20220325160000 +0800" stop="20220325200000 +0800" channel="110 直播新聞台 *">
+    <title lang="zh">直播新聞::最快最新</title>
+  </programme>
+  <programme start="20220325200000 +0800" stop="20220326000000 +0800" channel="110 直播新聞台 *">
+    <title lang="zh">直播新聞::最快最新</title>
+  </programme>
+  <programme start="20220325063500 +0800" stop="20220325081500 +0800" channel="201 有線電影台 *">
+    <title lang="zh">目中無人</title>
+  </programme>
+  <programme start="20220325081500 +0800" stop="20220325104000 +0800" channel="201 有線電影台 *">
+    <title lang="zh">再戰擊情</title>
+  </programme>
+  <programme start="20220325104000 +0800" stop="20220325131500 +0800" channel="201 有線電影台 *">
+    <title lang="zh">無雙</title>
+  </programme>
+  <programme start="20220325131500 +0800" stop="20220325154000 +0800" channel="201 有線電影台 *">
+    <title lang="zh">毒網天堂</title>
+  </programme>
+  <programme start="20220325154000 +0800" stop="20220325174000 +0800" channel="201 有線電影台 *">
+    <title lang="zh">戀情告急</title>
+  </programme>
+  <programme start="20220325174000 +0800" stop="20220325202500 +0800" channel="201 有線電影台 *">
+    <title lang="zh">跛豪</title>
+  </programme>
+  <programme start="20220325202500 +0800" stop="20220325222000 +0800" channel="201 有線電影台 *">
+    <title lang="zh">大富之家</title>
+  </programme>
+  <programme start="20220325222000 +0800" stop="20220326001500 +0800" channel="201 有線電影台 *">
+    <title lang="zh">情謎梵高</title>
+  </programme>
+  <programme start="20220325060000 +0800" stop="20220325070000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">無間道</title>
+  </programme>
+  <programme start="20220325070000 +0800" stop="20220325080000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">謊言的謊言</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325083000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220325083000 +0800" stop="20220325090000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">Cable 早晨</title>
+  </programme>
+  <programme start="20220325090000 +0800" stop="20220325100000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">無間道</title>
+  </programme>
+  <programme start="20220325100000 +0800" stop="20220325110000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">被遺忘的妻子</title>
+  </programme>
+  <programme start="20220325110000 +0800" stop="20220325112500 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">夏空</title>
+  </programme>
+  <programme start="20220325112500 +0800" stop="20220325115500 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">夏空</title>
+  </programme>
+  <programme start="20220325115500 +0800" stop="20220325120000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+  </programme>
+  <programme start="20220325120000 +0800" stop="20220325130000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">暖暖黃昏下</title>
+  </programme>
+  <programme start="20220325130000 +0800" stop="20220325140000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">萌妻食神</title>
+  </programme>
+  <programme start="20220325140000 +0800" stop="20220325143000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">N+1次遊泰國</title>
+  </programme>
+  <programme start="20220325143000 +0800" stop="20220325150000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">夠鐘食晏</title>
+  </programme>
+  <programme start="20220325150000 +0800" stop="20220325152500 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">夏空</title>
+  </programme>
+  <programme start="20220325152500 +0800" stop="20220325155500 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">夏空</title>
+  </programme>
+  <programme start="20220325155500 +0800" stop="20220325160000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+  </programme>
+  <programme start="20220325160000 +0800" stop="20220325170000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">被遺忘的妻子</title>
+  </programme>
+  <programme start="20220325170000 +0800" stop="20220325173000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">大行報告</title>
+  </programme>
+  <programme start="20220325173000 +0800" stop="20220325180000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">Jump Credit 特約 : 一期一匯</title>
+  </programme>
+  <programme start="20220325180000 +0800" stop="20220325183000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">六點新聞報道</title>
+  </programme>
+  <programme start="20220325183000 +0800" stop="20220325190000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325190000 +0800" stop="20220325200000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">暖暖黃昏下</title>
+  </programme>
+  <programme start="20220325200000 +0800" stop="20220325201500 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">有線財經</title>
+  </programme>
+  <programme start="20220325201500 +0800" stop="20220325202200 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">灣區直送</title>
+  </programme>
+  <programme start="20220325202200 +0800" stop="20220325203000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">每日樓市</title>
+  </programme>
+  <programme start="20220325203000 +0800" stop="20220325213000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">謊言的謊言</title>
+  </programme>
+  <programme start="20220325213000 +0800" stop="20220325214500 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">有線中國組</title>
+  </programme>
+  <programme start="20220325214500 +0800" stop="20220325220000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">有線新聞</title>
+  </programme>
+  <programme start="20220325220000 +0800" stop="20220325221500 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+  </programme>
+  <programme start="20220325221500 +0800" stop="20220325223000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">娛樂頭條 E-news Headline</title>
+  </programme>
+  <programme start="20220325223000 +0800" stop="20220325233000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">無間道</title>
+  </programme>
+  <programme start="20220325233000 +0800" stop="20220326000000 +0800" channel="301 綜合娛樂台 *">
+    <title lang="zh">夠鐘食晏</title>
+  </programme>
+  <programme start="20220325060000 +0800" stop="20220325080000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">J.League 廣島三箭 對 川崎前鋒 (21)</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325083000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">愛．體育 (809)</title>
+  </programme>
+  <programme start="20220325083000 +0800" stop="20220325090000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">俄超最精彩 (22)</title>
+  </programme>
+  <programme start="20220325090000 +0800" stop="20220325091500 +0800" channel="601 高清體育台 *">
+    <title lang="zh">2022 WCQ Plus (23)</title>
+  </programme>
+  <programme start="20220325091500 +0800" stop="20220325111500 +0800" channel="601 高清體育台 *">
+    <title lang="zh">國際足球友誼賽 亞美尼亞 對 黑山 (29)</title>
+  </programme>
+  <programme start="20220325111500 +0800" stop="20220325134500 +0800" channel="601 高清體育台 *">
+    <title lang="zh">愛．體育 (809)</title>
+  </programme>
+  <programme start="20220325134500 +0800" stop="20220325141500 +0800" channel="601 高清體育台 *">
+    <title lang="zh">俄超最精彩 (22)</title>
+  </programme>
+  <programme start="20220325141500 +0800" stop="20220325161500 +0800" channel="601 高清體育台 *">
+    <title lang="zh">2022 世界盃歐洲區外圍賽 瑞典 對 捷克 (144)</title>
+  </programme>
+  <programme start="20220325161500 +0800" stop="20220325183000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">2022 WCQ Plus (23)</title>
+  </programme>
+  <programme start="20220325183000 +0800" stop="20220325210000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">愛．體育 (809)</title>
+  </programme>
+  <programme start="20220325210000 +0800" stop="20220325220000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">WCQ 最精彩 (11)</title>
+  </programme>
+  <programme start="20220325220000 +0800" stop="20220325223000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">愛．體育 (810)</title>
+  </programme>
+  <programme start="20220325223000 +0800" stop="20220325230000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">德甲事件簿 (17)</title>
+  </programme>
+  <programme start="20220325230000 +0800" stop="20220325233000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">EFL最精彩 (30)</title>
+  </programme>
+  <programme start="20220325233000 +0800" stop="20220326003000 +0800" channel="601 高清體育台 *">
+    <title lang="zh">WCQ 最精彩 (11)</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325120000 +0800" channel="602 Sports Plus 1 *">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325120000 +0800" stop="20220325160000 +0800" channel="602 Sports Plus 1 *">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325160000 +0800" stop="20220325200000 +0800" channel="602 Sports Plus 1 *">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325200000 +0800" stop="20220326000000 +0800" channel="602 Sports Plus 1 *">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325060000 +0800" stop="20220325070000 +0800" channel="603 高清603台 *">
+    <title lang="zh">晨操逐格睇</title>
+  </programme>
+  <programme start="20220325070000 +0800" stop="20220325073000 +0800" channel="603 高清603台 *">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220325073000 +0800" stop="20220325084500 +0800" channel="603 高清603台 *">
+    <title lang="zh">睇片做功課</title>
+  </programme>
+  <programme start="20220325084500 +0800" stop="20220325090000 +0800" channel="603 高清603台 *">
+    <title lang="zh">賽事chat一Track</title>
+  </programme>
+  <programme start="20220325090000 +0800" stop="20220325093000 +0800" channel="603 高清603台 *">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220325093000 +0800" stop="20220325100000 +0800" channel="603 高清603台 *">
+    <title lang="zh">Emily賽馬世界 - 馬興文</title>
+  </programme>
+  <programme start="20220325100000 +0800" stop="20220325103000 +0800" channel="603 高清603台 *">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220325103000 +0800" stop="20220325114500 +0800" channel="603 高清603台 *">
+    <title lang="zh">睇片做功課</title>
+  </programme>
+  <programme start="20220325114500 +0800" stop="20220325120000 +0800" channel="603 高清603台 *">
+    <title lang="zh">賽事chat一Track</title>
+  </programme>
+  <programme start="20220325120000 +0800" stop="20220325123000 +0800" channel="603 高清603台 *">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220325123000 +0800" stop="20220325133000 +0800" channel="603 高清603台 *">
+    <title lang="zh">晨操逐格睇</title>
+  </programme>
+  <programme start="20220325133000 +0800" stop="20220325140000 +0800" channel="603 高清603台 *">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220325140000 +0800" stop="20220325151500 +0800" channel="603 高清603台 *">
+    <title lang="zh">睇片做功課</title>
+  </programme>
+  <programme start="20220325151500 +0800" stop="20220325153000 +0800" channel="603 高清603台 *">
+    <title lang="zh">賽事chat一Track</title>
+  </programme>
+  <programme start="20220325153000 +0800" stop="20220325160000 +0800" channel="603 高清603台 *">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220325160000 +0800" stop="20220325171500 +0800" channel="603 高清603台 *">
+    <title lang="zh">睇片做功課</title>
+  </programme>
+  <programme start="20220325171500 +0800" stop="20220325174500 +0800" channel="603 高清603台 *">
+    <title lang="zh">Emily賽馬世界 - 馬興文</title>
+  </programme>
+  <programme start="20220325174500 +0800" stop="20220325180000 +0800" channel="603 高清603台 *">
+    <title lang="zh">賽事chat一Track</title>
+  </programme>
+  <programme start="20220325180000 +0800" stop="20220325183000 +0800" channel="603 高清603台 *">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220325183000 +0800" stop="20220325193000 +0800" channel="603 高清603台 *">
+    <title lang="zh">晨操逐格睇</title>
+  </programme>
+  <programme start="20220325193000 +0800" stop="20220325200000 +0800" channel="603 高清603台 *">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220325200000 +0800" stop="20220325211500 +0800" channel="603 高清603台 *">
+    <title lang="zh">睇片做功課</title>
+  </programme>
+  <programme start="20220325211500 +0800" stop="20220325213000 +0800" channel="603 高清603台 *">
+    <title lang="zh">賽事chat一Track</title>
+  </programme>
+  <programme start="20220325213000 +0800" stop="20220325221500 +0800" channel="603 高清603台 *">
+    <title lang="zh">東方棕泉特約: 我要做大戶</title>
+  </programme>
+  <programme start="20220325221500 +0800" stop="20220325224500 +0800" channel="603 高清603台 *">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220325224500 +0800" stop="20220325230000 +0800" channel="603 高清603台 *">
+    <title lang="zh">海外預測</title>
+  </programme>
+  <programme start="20220325230000 +0800" stop="20220326000000 +0800" channel="603 高清603台 *">
+    <title lang="zh">海外賽事攻略</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325120000 +0800" channel="604 Sports Plus 2 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325120000 +0800" stop="20220325160000 +0800" channel="604 Sports Plus 2 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325160000 +0800" stop="20220325200000 +0800" channel="604 Sports Plus 2 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325200000 +0800" stop="20220326000000 +0800" channel="604 Sports Plus 2 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325120000 +0800" channel="605 Sports Plus 3 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325120000 +0800" stop="20220325160000 +0800" channel="605 Sports Plus 3 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325160000 +0800" stop="20220325200000 +0800" channel="605 Sports Plus 3 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325200000 +0800" stop="20220326000000 +0800" channel="605 Sports Plus 3 *">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325061500 +0800" stop="20220325064500 +0800" channel="618 有線18台">
+    <title lang="zh">Emily賽馬世界 - 馬興文</title>
+  </programme>
+  <programme start="20220325064500 +0800" stop="20220325080000 +0800" channel="618 有線18台">
+    <title lang="zh">睇片做功課</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325083000 +0800" channel="618 有線18台">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220325083000 +0800" stop="20220325084500 +0800" channel="618 有線18台">
+    <title lang="zh">賽事chat一Track</title>
+  </programme>
+  <programme start="20220325084500 +0800" stop="20220325090000 +0800" channel="618 有線18台">
+    <title lang="zh">金融時段</title>
+  </programme>
+  <programme start="20220325090000 +0800" stop="20220325123000 +0800" channel="618 有線18台">
+    <title lang="zh">金融時段</title>
+  </programme>
+  <programme start="20220325123000 +0800" stop="20220325130000 +0800" channel="618 有線18台">
+    <title lang="zh">金融時段</title>
+  </programme>
+  <programme start="20220325130000 +0800" stop="20220325173000 +0800" channel="618 有線18台">
+    <title lang="zh">金融時段</title>
+  </programme>
+  <programme start="20220325173000 +0800" stop="20220325183000 +0800" channel="618 有線18台">
+    <title lang="zh">金融時段</title>
+  </programme>
+  <programme start="20220325183000 +0800" stop="20220325193000 +0800" channel="618 有線18台">
+    <title lang="zh">晨操逐格睇</title>
+  </programme>
+  <programme start="20220325193000 +0800" stop="20220325200000 +0800" channel="618 有線18台">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220325200000 +0800" stop="20220325211500 +0800" channel="618 有線18台">
+    <title lang="zh">睇片做功課</title>
+  </programme>
+  <programme start="20220325211500 +0800" stop="20220325213000 +0800" channel="618 有線18台">
+    <title lang="zh">賽事chat一Track</title>
+  </programme>
+  <programme start="20220325213000 +0800" stop="20220325221500 +0800" channel="618 有線18台">
+    <title lang="zh">東方棕泉特約: 我要做大戶</title>
+  </programme>
+  <programme start="20220325221500 +0800" stop="20220325224500 +0800" channel="618 有線18台">
+    <title lang="zh">排位拆局</title>
+  </programme>
+  <programme start="20220325224500 +0800" stop="20220325230000 +0800" channel="618 有線18台">
+    <title lang="zh">海外預測</title>
+  </programme>
+  <programme start="20220325230000 +0800" stop="20220326000000 +0800" channel="618 有線18台">
+    <title lang="zh">海外賽事攻略</title>
+  </programme>
+  <programme start="20220325060000 +0800" stop="20220325080000 +0800" channel="661 有線體育台">
+    <title lang="zh">J.League 廣島三箭 對 川崎前鋒 (21)</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325083000 +0800" channel="661 有線體育台">
+    <title lang="zh">愛．體育 (809)</title>
+  </programme>
+  <programme start="20220325083000 +0800" stop="20220325090000 +0800" channel="661 有線體育台">
+    <title lang="zh">俄超最精彩 (22)</title>
+  </programme>
+  <programme start="20220325090000 +0800" stop="20220325091500 +0800" channel="661 有線體育台">
+    <title lang="zh">2022 WCQ Plus (23)</title>
+  </programme>
+  <programme start="20220325091500 +0800" stop="20220325111500 +0800" channel="661 有線體育台">
+    <title lang="zh">國際足球友誼賽 亞美尼亞 對 黑山 (29)</title>
+  </programme>
+  <programme start="20220325111500 +0800" stop="20220325134500 +0800" channel="661 有線體育台">
+    <title lang="zh">愛．體育 (809)</title>
+  </programme>
+  <programme start="20220325134500 +0800" stop="20220325141500 +0800" channel="661 有線體育台">
+    <title lang="zh">俄超最精彩 (22)</title>
+  </programme>
+  <programme start="20220325141500 +0800" stop="20220325161500 +0800" channel="661 有線體育台">
+    <title lang="zh">2022 世界盃歐洲區外圍賽 瑞典 對 捷克 (144)</title>
+  </programme>
+  <programme start="20220325161500 +0800" stop="20220325183000 +0800" channel="661 有線體育台">
+    <title lang="zh">2022 WCQ Plus (23)</title>
+  </programme>
+  <programme start="20220325183000 +0800" stop="20220325210000 +0800" channel="661 有線體育台">
+    <title lang="zh">愛．體育 (809)</title>
+  </programme>
+  <programme start="20220325210000 +0800" stop="20220325220000 +0800" channel="661 有線體育台">
+    <title lang="zh">WCQ 最精彩 (11)</title>
+  </programme>
+  <programme start="20220325220000 +0800" stop="20220325223000 +0800" channel="661 有線體育台">
+    <title lang="zh">愛．體育 (810)</title>
+  </programme>
+  <programme start="20220325223000 +0800" stop="20220325230000 +0800" channel="661 有線體育台">
+    <title lang="zh">德甲事件簿 (17)</title>
+  </programme>
+  <programme start="20220325230000 +0800" stop="20220325233000 +0800" channel="661 有線體育台">
+    <title lang="zh">EFL最精彩 (30)</title>
+  </programme>
+  <programme start="20220325233000 +0800" stop="20220326003000 +0800" channel="661 有線體育台">
+    <title lang="zh">WCQ 最精彩 (11)</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325120000 +0800" channel="662 Sports Plus 1">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325120000 +0800" stop="20220325160000 +0800" channel="662 Sports Plus 1">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325160000 +0800" stop="20220325200000 +0800" channel="662 Sports Plus 1">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325200000 +0800" stop="20220326000000 +0800" channel="662 Sports Plus 1">
+    <title lang="zh">由於節目台未能提供節目表:敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325120000 +0800" channel="664 Sports Plus 2">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325120000 +0800" stop="20220325160000 +0800" channel="664 Sports Plus 2">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325160000 +0800" stop="20220325200000 +0800" channel="664 Sports Plus 2">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325200000 +0800" stop="20220326000000 +0800" channel="664 Sports Plus 2">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325080000 +0800" stop="20220325120000 +0800" channel="665 Sports Plus 3">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325120000 +0800" stop="20220325160000 +0800" channel="665 Sports Plus 3">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325160000 +0800" stop="20220325200000 +0800" channel="665 Sports Plus 3">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325200000 +0800" stop="20220326000000 +0800" channel="665 Sports Plus 3">
+    <title lang="zh">由於節目台未能提供節目表::敬請觀眾留意, 謝謝!</title>
+  </programme>
+  <programme start="20220325060000 +0800" stop="20220325130000 +0800" channel="668 賽馬1台">
+    <title lang="zh">此頻道只於賽馬時段提供直播節目</title>
+  </programme>
+  <programme start="20220325130000 +0800" stop="20220326000000 +0800" channel="668 賽馬1台">
+    <title lang="zh">此頻道只於賽馬時段提供直播節目</title>
+  </programme>
+  <programme start="20220325060000 +0800" stop="20220325130000 +0800" channel="669 賽馬2台">
+    <title lang="zh">此頻道只於賽馬時段提供直播節目</title>
+  </programme>
+  <programme start="20220325130000 +0800" stop="20220326000000 +0800" channel="669 賽馬2台">
+    <title lang="zh">此頻道只於賽馬時段提供直播節目</title>
+  </programme>
+</tv>
